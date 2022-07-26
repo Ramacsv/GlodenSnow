@@ -5,9 +5,14 @@
 
 
 ### Golden Flower Snow Story 
-![alt Golden Flake](snowflake.jpg "Golden Flower Flake")![alt Golden Flake](snowflake.jpg "Golden Flower Flake")![alt Golden Flake](snowflake.jpg "Golden Flower Flake")
+
+
+![alt Golden Flake](snowflakeB.png "Golden Flower Flake")
+
+![alt Golden Flake](snowflakeA.png "Golden Flower Flake")
 
 <b>Image Photo by SuiteCase Friend</b>
+<hr style="border:5px solid purple">
 
 _I want to write about my  friend Suitecase's golden  flower snow._
 
