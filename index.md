@@ -26,7 +26,7 @@ _First level is a regular mode._
 
 _Second level  there is giant car mode that turn the car into a huge one._
 
-_Third level has both airplane and ocean mode. _
+_Third level has both airplane and ocean mode._
 
 _Now he went to third level selected airplane mode and flew to New York._ 
 
