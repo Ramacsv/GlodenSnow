@@ -3,9 +3,7 @@
 
 ### Golden Flower Snow Story
 
-
 ![Golden Flake](snowflake.jpg)
-
 
 _I want to write about my  friend Suitecase's golden  flower snow._
 
