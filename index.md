@@ -8,6 +8,7 @@
 ![Golden Flake](snowflake.jpg)
 
 <b>Image Photo by SuiteCase Friend</b>
+
 _I want to write about my  friend Suitecase's golden  flower snow._
 
 _Suitecase had break from work in christmas time. He decided to go some where that snowed._ 
