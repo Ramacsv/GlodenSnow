@@ -50,8 +50,6 @@ _So hid that and got a lot of golden flowers. It was like rose and magnolia flow
 _He put them in his backpack and went to his flying car and came home. 
 He showed me flowers._
 
-
 ### The end. 
-
 
 ### Hope you enjoy this story. Thank You
