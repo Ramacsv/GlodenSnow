@@ -3,7 +3,7 @@
 ### Golden Flower Snow Story
 
 
-[Link](url) and ![Image](src)
+![Golden Flake](src)
 
 
 _I want to write about my  friend Suitecase's golden  flower snow._
