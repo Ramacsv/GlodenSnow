@@ -1,11 +1,11 @@
-![SnowGold](snowflower2.png)
+![alt SnowGold](snowflower2.png "Gold Flake")
 
 <hr style="border:5px solid yellow">
 ## Welcome to SuiteCases Story Page
 
 
 ### Golden Flower Snow Story
-![Golden Flake](snowflake.jpg)
+![alt Golden Flake](snowflake.jpg "Golden Flower Flake")
 
 <b>Image Photo by SuiteCase Friend</b>
 
