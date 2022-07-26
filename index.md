@@ -1,6 +1,6 @@
 ![SnowGold](snowflower2.png)
 
-<hr style="border:5px solid green">
+<hr style="border:5px solid yellow">
 ## Welcome to SuiteCases Story Page
 
 
