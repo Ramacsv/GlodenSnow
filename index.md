@@ -1,4 +1,5 @@
 ## Welcome to SuiteCases Story Page
+![SnowGold](snowflower2.png)
 
 ### Golden Flower Snow Story
 
