@@ -1,10 +1,11 @@
-## Welcome to SuiteCases Story Page ![alt SnowGold](snowflower2.png "Gold Flake")
+![alt SnowGold](snowflower2.png "Gold Flake")
 
 <hr style="border:5px solid yellow">
 ## Welcome to SuiteCases Story Page
 
 
-### Golden Flower Snow Story ![alt Golden Flake](snowflake.jpg "Golden Flower Flake")
+### Golden Flower Snow Story 
+![alt Golden Flake](snowflake.jpg "Golden Flower Flake")![alt Golden Flake](snowflake.jpg "Golden Flower Flake")![alt Golden Flake](snowflake.jpg "Golden Flower Flake")
 
 <b>Image Photo by SuiteCase Friend</b>
 
